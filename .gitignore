@@ -1,0 +1,8 @@
+*.pyc
+legged_gym/logs/
+legged_gym/policy_zoo/
+legged_gym/legged_gym/scripts/test.py
+legged_gym/resources/
+*.egg-info
+__pycache__
+*.onnx
