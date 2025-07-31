@@ -79,12 +79,14 @@ We would like to thank the projects that inspired or supported this work:
 
 If you find this work useful, please consider citing:
 
+```
 @article{ouyang2024long,
   title={Long-horizon locomotion and manipulation on a quadrupedal robot with large language models},
   author={Ouyang, Yutao and Li, Jinhan and Li, Yunfei and Li, Zhongyu and Yu, Chao and Sreenath, Koushil and Wu, Yi},
   journal={arXiv preprint arXiv:2404.05291},
   year={2024}
 }
+```
 
 📬 Contact
 
